@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>601619508620-b9qpq32gjap94346u9hua29liljq0fom.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.601619508620-b9qpq32gjap94346u9hua29liljq0fom</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>601619508620-p56mm1rrsciecqkk23eolv1dph4c5dte.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDFuWxH5NQg-h5EYRnutRf0t-PCVCCswZg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>601619508620</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vn.timviec365.chat365</string>
+	<key>PROJECT_ID</key>
+	<string>chat365-2e64a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chat365-2e64a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:601619508620:ios:58ab3ecacf502f74397aa9</string>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "601619508620",
+    "project_id": "chat365-2e64a",
+    "storage_bucket": "chat365-2e64a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601619508620:android:0e4477ad7eb1d5e6397aa9",
+        "android_client_info": {
+          "package_name": "vn.timviec365.chat_365"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601619508620-p56mm1rrsciecqkk23eolv1dph4c5dte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.timviec365.chat_365",
+            "certificate_hash": "2d1fe7523f4cd6e661e087253938431dbbaad1ee"
+          }
+        },
+        {
+          "client_id": "601619508620-ip6ljf106tbl8ofkrgf56uof64c8bvm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5_ld3iEu4IUvydnYewUEsoDn5vKjTBl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601619508620-ip6ljf106tbl8ofkrgf56uof64c8bvm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

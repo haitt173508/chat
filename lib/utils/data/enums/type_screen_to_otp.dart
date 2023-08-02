@@ -1,0 +1,1 @@
+enum TypeScreenToOtp { FORGOTPASSWORD, CONFIRMACCOUNT }
